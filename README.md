@@ -1,4 +1,6 @@
 # Project Home Along 小鬼當家
+https://drive.google.com/open?id=1OYROcFzCuMWtuDKac8_DhH8SnZKpj-Xo
+
 大學專題
 本專題是以開發 Stream 平台上的 VR 遊戲為主，遊戲類型為結合 VR 的密室
 逃脫遊戲及模擬餐廳遊戲，此兩種遊戲並沒有先後順序，玩家可以自己決定要先
